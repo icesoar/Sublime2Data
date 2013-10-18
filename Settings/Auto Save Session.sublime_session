@@ -1,0 +1,1029 @@
+{
+	"folder_history":
+	[
+		"/Users/Victor/Development/hello.js",
+		"/Users/Victor/GitHub/ShowMe",
+		"/Volumes/depots/ShowMe",
+		"/Users/Victor/GitHub/ShowMe/servers",
+		"/Volumes/depots/ShowMe/servers/cakephp",
+		"/Users/Victor/GitHub/ShowMe/servers/cakephp",
+		"/Users/Victor/GitHub/ShowMe/apps/ios",
+		"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot",
+		"/Users/Victor/GitHub/iblog"
+	],
+	"last_window_id": 89,
+	"settings":
+	{
+		"new_window_height": 931.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pos",
+						"postDataChunk"
+					],
+					[
+						"write",
+						"writeHead"
+					],
+					[
+						"requ",
+						"requestHandlers"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"sto",
+						"storyId"
+					],
+					[
+						"env",
+						"envVars"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"u",
+						"ul	Tag"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 107.0,
+				"selected_items":
+				[
+					[
+						"fun",
+						"Snippet: Function"
+					],
+					[
+						"func",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Convert Case: Title Case"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Victor/Development/hello.js/requestHandlers",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/Victor/repos/weibo_ios_sdk_sso-oauth/README.md",
+				"/Users/Victor/Development/Developer.Triton/push.php",
+				"/Users/Shared/Jenkins/Home/jobs/ShowMe-iOS_BR-develop/config.xml",
+				"/Volumes/depots/ShowMe/servers/cakephp/._.DS_Store",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/Locale/eng/LC_MESSAGES/default.po",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.accordion.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.puzzle5.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/carbon.version.md",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/css/alchemist.puzzle5.css",
+				"/Users/Victor/nohup.out",
+				"/Users/Victor/GitHub/ShowMe/.git/.git/MERGE_MSG",
+				"/Users/Victor/GitHub/ShowMe/.git/MERGE_MSG",
+				"/Users/Victor/GitHub/ShowMe/.git/.git/COMMIT_EDITMSG",
+				"/Users/Victor/GitHub/ShowMe/.git/COMMIT_EDITMSG",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.watervapor.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.mage.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.css",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/utilities.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/textureMapping.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/prettyprint.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/index.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/apitest.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/apitest.css",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/accordion.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/watervapor.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/puzzle.html",
+				"/Users/Victor/GitHub/ShowMe/apps/ios/FunnyPicture/MainStoryboard.storyboard",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/open_browser.py",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/Victor/Documents/SublimeProjects/iblog.sublime-project",
+				"/Users/Victor/apps/goagent/local/proxy.pac",
+				"/Users/Shared/Jenkins/Home/secret.key"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"indent",
+					"80",
+					"indent",
+					"update",
+					"develo",
+					"de've'lo",
+					"de've'lo'p'er",
+					"toast",
+					"onInit",
+					"tryToCreatePlate",
+					".watervapor",
+					"en_opened",
+					"showAnime",
+					"en_opened",
+					"mountActions",
+					"super",
+					"pink",
+					"active",
+					"	<div class=\"row\">\n		<div class=\"span4\">...</div>\n		<div class=\"span8\">...</div>\n	</div>\n</body>\n</html>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"+\"]}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 245.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1212.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pos",
+						"postDataChunk"
+					],
+					[
+						"write",
+						"writeHead"
+					],
+					[
+						"requ",
+						"requestHandlers"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"sto",
+						"storyId"
+					],
+					[
+						"env",
+						"envVars"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"u",
+						"ul	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 13677,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 29349,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 113,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 113,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 107.0,
+				"selected_items":
+				[
+					[
+						"fun",
+						"Snippet: Function"
+					],
+					[
+						"func",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Convert Case: Title Case"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Victor/Development/hello.js/requestHandlers",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/Victor/repos/weibo_ios_sdk_sso-oauth/README.md",
+				"/Users/Victor/Development/Developer.Triton/push.php",
+				"/Users/Shared/Jenkins/Home/jobs/ShowMe-iOS_BR-develop/config.xml",
+				"/Volumes/depots/ShowMe/servers/cakephp/._.DS_Store",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/Locale/eng/LC_MESSAGES/default.po",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.accordion.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.puzzle5.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/carbon.version.md",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/css/alchemist.puzzle5.css",
+				"/Users/Victor/nohup.out",
+				"/Users/Victor/GitHub/ShowMe/.git/.git/MERGE_MSG",
+				"/Users/Victor/GitHub/ShowMe/.git/MERGE_MSG",
+				"/Users/Victor/GitHub/ShowMe/.git/.git/COMMIT_EDITMSG",
+				"/Users/Victor/GitHub/ShowMe/.git/COMMIT_EDITMSG",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.watervapor.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.mage.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.css",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/utilities.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/textureMapping.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/prettyprint.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/index.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/apitest.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/apitest.css",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/accordion.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/watervapor.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/puzzle.html",
+				"/Users/Victor/GitHub/ShowMe/apps/ios/FunnyPicture/MainStoryboard.storyboard",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/open_browser.py",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/Victor/Documents/SublimeProjects/iblog.sublime-project",
+				"/Users/Victor/apps/goagent/local/proxy.pac",
+				"/Users/Shared/Jenkins/Home/secret.key"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"indent",
+					"80",
+					"indent",
+					"update",
+					"develo",
+					"de've'lo",
+					"de've'lo'p'er",
+					"toast",
+					"onInit",
+					"tryToCreatePlate",
+					".watervapor",
+					"en_opened",
+					"showAnime",
+					"en_opened",
+					"mountActions",
+					"super",
+					"pink",
+					"active",
+					"	<div class=\"row\">\n		<div class=\"span4\">...</div>\n		<div class=\"span8\">...</div>\n	</div>\n</body>\n</html>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"+\"]}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 13677,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10384,
+										10384
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3667.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 29349,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4554,
+										4554
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1162.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 113,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 113,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "636 105 1212 953 0 0 1920 1058 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 245.0,
+			"status_bar_visible": true,
+			"window_id": 88,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pos",
+						"postDataChunk"
+					],
+					[
+						"write",
+						"writeHead"
+					],
+					[
+						"requ",
+						"requestHandlers"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"sto",
+						"storyId"
+					],
+					[
+						"env",
+						"envVars"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"u",
+						"ul	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 338,
+						"line_ending": "Unix",
+						"name": "var se"
+					}
+				},
+				{
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 449,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nfunction route(handle, pathname, response, request) {\n    console.log(\"About to route a request for \" + pathname);\n    if (typeof handle[pathname] === \"function\") {\n        handle[pathname](response, request);\n    }\n    else {\n        console.log(\"No request handler found for \" + pathname);\n        response.writeHead(404, { \"Content-Type\": \"text/plain\" });\n        response.write(\"404 Not found\");\n        response.end();\n    }\n}\n\nexports.route = route;",
+					"file": "router.js",
+					"file_size": 456,
+					"file_write_time": 1382063582000000,
+					"settings":
+					{
+						"buffer_size": 456,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "requestHandlers.js",
+					"settings":
+					{
+						"buffer_size": 2325,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 107.0,
+				"selected_items":
+				[
+					[
+						"fun",
+						"Snippet: Function"
+					],
+					[
+						"func",
+						"Snippet: Function"
+					],
+					[
+						"",
+						"Convert Case: Title Case"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Victor/Development/hello.js/requestHandlers",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/Victor/repos/weibo_ios_sdk_sso-oauth/README.md",
+				"/Users/Victor/Development/Developer.Triton/push.php",
+				"/Users/Shared/Jenkins/Home/jobs/ShowMe-iOS_BR-develop/config.xml",
+				"/Volumes/depots/ShowMe/servers/cakephp/._.DS_Store",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/Locale/eng/LC_MESSAGES/default.po",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.accordion.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.puzzle5.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/carbon.version.md",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/css/alchemist.puzzle5.css",
+				"/Users/Victor/nohup.out",
+				"/Users/Victor/GitHub/ShowMe/.git/.git/MERGE_MSG",
+				"/Users/Victor/GitHub/ShowMe/.git/MERGE_MSG",
+				"/Users/Victor/GitHub/ShowMe/.git/.git/COMMIT_EDITMSG",
+				"/Users/Victor/GitHub/ShowMe/.git/COMMIT_EDITMSG",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.watervapor.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.mage.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.css",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/utilities.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/textureMapping.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/prettyprint.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/index.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/apitest.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/apitest.css",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/accordion.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/apidemo/prism.js",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/watervapor.html",
+				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/puzzle.html",
+				"/Users/Victor/GitHub/ShowMe/apps/ios/FunnyPicture/MainStoryboard.storyboard",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/open_browser.py",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/Victor/Documents/SublimeProjects/iblog.sublime-project",
+				"/Users/Victor/apps/goagent/local/proxy.pac",
+				"/Users/Shared/Jenkins/Home/secret.key"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"update",
+					"develo",
+					"de've'lo",
+					"de've'lo'p'er",
+					"toast",
+					"onInit",
+					"tryToCreatePlate",
+					".watervapor",
+					"en_opened",
+					"showAnime",
+					"en_opened",
+					"mountActions",
+					"super",
+					"pink",
+					"active",
+					"	<div class=\"row\">\n		<div class=\"span4\">...</div>\n		<div class=\"span8\">...</div>\n	</div>\n</body>\n</html>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"+\"]}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "index.js",
+							"settings":
+							{
+								"buffer_size": 338,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										338,
+										338
+									]
+								],
+								"settings":
+								{
+									"auto_name": "var se",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "server.js",
+							"settings":
+							{
+								"buffer_size": 449,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										329,
+										329
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "router.js",
+							"settings":
+							{
+								"buffer_size": 456,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										456,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "requestHandlers.js",
+							"settings":
+							{
+								"buffer_size": 2325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2010,
+										2010
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 310.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.643587739885,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "354 105 1212 953 0 0 1920 1058 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 245.0,
+			"status_bar_visible": true,
+			"window_id": 89,
+			"workspace_name": "/Users/Victor/Development/hello.js/hello.js.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/Victor/Development/hello.js/hello.js.sublime-project",
+			"/Users/Victor/Documents/SublimeProjects/ShowMeWS.sublime-project",
+			"/Users/Victor/Documents/SublimeProjects/ShowMe.here.sublime-project"
+		]
+	}
+}
