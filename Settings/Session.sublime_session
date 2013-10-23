@@ -11,7 +11,7 @@
 		"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot",
 		"/Users/Victor/GitHub/iblog"
 	],
-	"last_window_id": 90,
+	"last_window_id": 92,
 	"settings":
 	{
 		"new_window_height": 931.0,
@@ -62,6 +62,14 @@
 				"selected_items":
 				[
 					[
+						"Packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
 						"fun",
 						"Snippet: Function"
 					],
@@ -74,7 +82,7 @@
 						"Convert Case: Title Case"
 					]
 				],
-				"width": 467.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -212,6 +220,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
 			"replace":
 			{
 				"height": 0.0
@@ -285,13 +297,58 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/Users/Victor/index.js",
+					"settings":
+					{
+						"buffer_size": 19,
+						"line_ending": "Unix",
+						"name": "sss"
+					}
+				},
+				{
+					"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 405,
+						"line_ending": "Unix"
+					}
+				}
 			],
-			"build_system": "",
+			"build_system": "Packages/Nodejs/Nodejs.sublime-build",
 			"command_palette":
 			{
 				"height": 107.0,
 				"selected_items":
 				[
+					[
+						"pacin",
+						"Package Control: Install Package"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Pre",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"pack sett",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"Packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
 					[
 						"fun",
 						"Snippet: Function"
@@ -305,7 +362,7 @@
 						"Convert Case: Title Case"
 					]
 				],
-				"width": 467.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -322,6 +379,10 @@
 			},
 			"file_history":
 			[
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/Users/Victor/Development/hello.js/requestHandlers",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 				"/Users/Victor/repos/weibo_ios_sdk_sso-oauth/README.md",
@@ -354,7 +415,6 @@
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/puzzle.html",
 				"/Users/Victor/GitHub/ShowMe/apps/ios/FunnyPicture/MainStoryboard.storyboard",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/open_browser.py",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
@@ -415,8 +475,64 @@
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/Users/Victor/index.js",
+							"settings":
+							{
+								"buffer_size": 19,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19,
+										19
+									]
+								],
+								"settings":
+								{
+									"auto_name": "sss",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 405,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										405,
+										405
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -451,7 +567,11 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "1327 176 1212 953 0 0 2560 1418 ",
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"position": "1063 222 1212 953 0 0 2560 1418 ",
 			"replace":
 			{
 				"height": 0.0

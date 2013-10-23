@@ -1,6 +1,8 @@
 {
 	"installed_packages":
 	[
+		"CoffeeScript",
+		"jQuery",
 		"Nodejs",
 		"Package Control"
 	]
