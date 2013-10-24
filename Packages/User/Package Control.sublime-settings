@@ -2,8 +2,16 @@
 	"installed_packages":
 	[
 		"CoffeeScript",
+		"DocBlockr",
+		"Git",
+		"Github Tools",
 		"jQuery",
+		"Markdown Extended",
+		"Markdown Preview",
 		"Nodejs",
-		"Package Control"
+		"Package Control",
+		"Prefixr",
+		"Theme - Aqua",
+		"Theme - Flatland"
 	]
 }
