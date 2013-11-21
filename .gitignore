@@ -11,3 +11,4 @@ tmp/*
 *.DS_Store
 *.svn
 Auto Save Session.sublime_session
+Backup/
