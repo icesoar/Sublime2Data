@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/Users/Victor/Desktop/aurora.ws",
+		"/Users/Victor/repos/3rd/express",
+		"/Users/Victor/repos/Aurora",
 		"/Users/Victor/Development/hello.js",
 		"/Users/Victor/GitHub/ShowMe",
 		"/Volumes/depots/ShowMe",
@@ -11,7 +14,7 @@
 		"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot",
 		"/Users/Victor/GitHub/iblog"
 	],
-	"last_window_id": 94,
+	"last_window_id": 110,
 	"settings":
 	{
 		"new_window_height": 931.0,
@@ -55,38 +58,26 @@
 					]
 				]
 			},
-			"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 127.0,
 				"selected_items":
 				[
 					[
-						"pacin",
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"pack ins",
+						"synjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"pi",
 						"Package Control: Install Package"
 					],
 					[
-						"Pack ins",
-						"Package Control: Install Package"
-					],
-					[
-						"Pre",
-						"Preferences: Package Control Settings – Default"
-					],
-					[
-						"pack sett",
-						"Preferences: Package Control Settings – User"
-					],
-					[
-						"Packagein",
-						"Package Control: Install Package"
-					],
-					[
-						"Package",
+						"pin",
 						"Package Control: Install Package"
 					],
 					[
@@ -102,7 +93,7 @@
 						"Convert Case: Title Case"
 					]
 				],
-				"width": 449.0
+				"width": 604.0
 			},
 			"console":
 			{
@@ -119,11 +110,24 @@
 			},
 			"file_history":
 			[
-				"/Users/Victor/index.js",
-				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
-				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/Users/Victor/repos/3rd/asi-http-request/Classes/ASIWebPageRequest/ASIWebPageRequest.m",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/.gitignore",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/routes/user.js",
+				"/Users/Victor/Desktop/aurora.ws/package.json",
+				"/Users/Victor/Desktop/aurora.ws/routes/user.js",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/app.js",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/routes/note.js",
+				"/Users/Victor/Desktop/aurora.ws/app.js",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/views/layout.jade",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/views/index.jade",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/.idea/dictionaries/Victor.xml",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/views/prism/console.jade",
+				"/Users/Victor/repos/Aurora/servers/database/aurora.sql",
+				"/Users/Victor/nohup.out",
+				"/Users/Victor/apps/goagent-goagent-dbcae53/local/proxy.ini",
+				"/Users/Victor/apps/goagent-goagent-dbcae53/local/proxy.pac",
+				"/Users/Victor/apps/goagent/local/proxy.ini",
+				"/Users/Victor/apps/goagent/local/proxy.pac",
 				"/Users/Victor/Development/hello.js/requestHandlers",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 				"/Users/Victor/repos/weibo_ios_sdk_sso-oauth/README.md",
@@ -135,7 +139,6 @@
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.puzzle5.js",
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/carbon.version.md",
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/css/alchemist.puzzle5.css",
-				"/Users/Victor/nohup.out",
 				"/Users/Victor/GitHub/ShowMe/.git/.git/MERGE_MSG",
 				"/Users/Victor/GitHub/ShowMe/.git/MERGE_MSG",
 				"/Users/Victor/GitHub/ShowMe/.git/.git/COMMIT_EDITMSG",
@@ -156,11 +159,11 @@
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/alchemist/puzzle.html",
 				"/Users/Victor/GitHub/ShowMe/apps/ios/FunnyPicture/MainStoryboard.storyboard",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/open_browser.py",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/Victor/Documents/SublimeProjects/iblog.sublime-project",
-				"/Users/Victor/apps/goagent/local/proxy.pac",
 				"/Users/Shared/Jenkins/Home/secret.key"
 			],
 			"find":
@@ -179,9 +182,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"indent",
-					"80",
-					"indent",
+					"127.0.0.1:8087",
+					"127.0.0.1",
+					"property",
 					"update",
 					"develo",
 					"de've'lo",
@@ -230,11 +233,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.486132389242,
 					1.0
 				],
 				"rows":
@@ -244,10 +254,6 @@
 				]
 			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 100.0
-			},
 			"replace":
 			{
 				"height": 0.0
@@ -273,10 +279,10 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 245.0,
+			"side_bar_width": 247.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1212.0
+		"new_window_width": 1826.0
 	},
 	"windows":
 	[
@@ -322,35 +328,53 @@
 			"buffers":
 			[
 				{
-					"file": "index.js",
+					"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/views/prism/console.jade",
 					"settings":
 					{
-						"buffer_size": 338,
-						"line_ending": "Unix",
-						"name": "var se"
-					}
-				},
-				{
-					"file": "server.js",
-					"settings":
-					{
-						"buffer_size": 449,
+						"buffer_size": 1976,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "router.js",
+					"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/routes/index.js",
 					"settings":
 					{
-						"buffer_size": 456,
+						"buffer_size": 295,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "requestHandlers.js",
+					"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/routes/slice.js",
 					"settings":
 					{
-						"buffer_size": 2325,
+						"buffer_size": 1600,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Victor/repos/Aurora/servers/database/aurora.sql",
+					"settings":
+					{
+						"buffer_size": 1381,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/app.js",
+					"settings":
+					{
+						"buffer_size": 1629,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\n\"use strict\";\n\nvar audb = require('../aurora_db');\n\n/*\n * POST create note.\n */\nexports.create = function(req, res) {\n    var note = req.body;\n    console.log('note.create: ', note);\n\n    audb().query('INSERT INTO t_note SET ?', {\n        user_id:        note.user_id,\n        note_type:      note.note_type || 1,\n        content_text:   note.content_text,\n        longitude:      note.longitude,\n        latitude:       note.latitude,\n        altitude:       note.altitude,\n        created_date:   new Date()\n    }, function(err, result) {\n        if (err)\n            res.send(err);\n        else\n            res.send({ note_id: result.insertId });\n    });\n};\n\n/*\n * PUT edit note info.\n */\nexports.edit = function(req, res) {\n    console.log('note.edit: ', req.body);\n};\n\n/*\n * GET note info by note_id.\n */\nexports.get = function(req, res) {\n    console.log('note.get params: ', req.params);\n\n    audb().query('SELECT * FROM t_note WHERE ?', {\n        note_id: req.params.note_id\n    }, function(err, results) {\n        if (err)\n            res.send(err);\n        else\n            res.send({ note: results[0] });\n    });\n};\n\n/*\n * DELETE delete note.\n */\nexports.delete = function(req, res) {\n    console.log('note.delete: ', req.params);\n};\n\n/*\n * GET notes listing.\n */\nexports.list = function(req, res) {\n    console.log('note.list');\n\n    audb.auroraConn().query('SELECT * FROM t_note', function(err, results) {\n        if (err)\n            res.send(err);\n        else\n            res.send({ notes: results });\n    });\n};\n",
+					"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/routes/note.js",
+					"file_size": 1530,
+					"file_write_time": 1384413872000000,
+					"settings":
+					{
+						"buffer_size": 1530,
 						"line_ending": "Unix"
 					}
 				}
@@ -358,9 +382,21 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 127.0,
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
 					[
 						"pin",
 						"Package Control: Install Package"
@@ -378,7 +414,7 @@
 						"Convert Case: Title Case"
 					]
 				],
-				"width": 467.0
+				"width": 604.0
 			},
 			"console":
 			{
@@ -395,6 +431,23 @@
 			},
 			"file_history":
 			[
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/.gitignore",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/routes/user.js",
+				"/Users/Victor/Desktop/aurora.ws/package.json",
+				"/Users/Victor/Desktop/aurora.ws/routes/user.js",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/app.js",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/routes/note.js",
+				"/Users/Victor/Desktop/aurora.ws/app.js",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/views/layout.jade",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/views/index.jade",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/.idea/dictionaries/Victor.xml",
+				"/Users/Victor/repos/Aurora/servers/aurora.ws/views/prism/console.jade",
+				"/Users/Victor/repos/Aurora/servers/database/aurora.sql",
+				"/Users/Victor/nohup.out",
+				"/Users/Victor/apps/goagent-goagent-dbcae53/local/proxy.ini",
+				"/Users/Victor/apps/goagent-goagent-dbcae53/local/proxy.pac",
+				"/Users/Victor/apps/goagent/local/proxy.ini",
+				"/Users/Victor/apps/goagent/local/proxy.pac",
 				"/Users/Victor/Development/hello.js/requestHandlers",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 				"/Users/Victor/repos/weibo_ios_sdk_sso-oauth/README.md",
@@ -406,7 +459,6 @@
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/js/alchemist.puzzle5.js",
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/carbon.version.md",
 				"/Users/Victor/GitHub/ShowMe/servers/cakephp/app/webroot/css/alchemist.puzzle5.css",
-				"/Users/Victor/nohup.out",
 				"/Users/Victor/GitHub/ShowMe/.git/.git/MERGE_MSG",
 				"/Users/Victor/GitHub/ShowMe/.git/MERGE_MSG",
 				"/Users/Victor/GitHub/ShowMe/.git/.git/COMMIT_EDITMSG",
@@ -432,7 +484,6 @@
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/User/open_browser.py",
 				"/Users/Victor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/Victor/Documents/SublimeProjects/iblog.sublime-project",
-				"/Users/Victor/apps/goagent/local/proxy.pac",
 				"/Users/Shared/Jenkins/Home/secret.key"
 			],
 			"find":
@@ -451,6 +502,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"note",
+					"127.0.0.1:8087",
+					"127.0.0.1",
+					"property",
 					"update",
 					"develo",
 					"de've'lo",
@@ -485,29 +540,30 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "index.js",
+							"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/views/prism/console.jade",
 							"settings":
 							{
-								"buffer_size": 338,
+								"buffer_size": 1976,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										338,
-										338
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "var se",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -517,18 +573,18 @@
 						},
 						{
 							"buffer": 1,
-							"file": "server.js",
+							"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/routes/index.js",
 							"settings":
 							{
-								"buffer_size": 449,
+								"buffer_size": 295,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										329,
-										329
+										295,
+										295
 									]
 								],
 								"settings":
@@ -543,24 +599,51 @@
 						},
 						{
 							"buffer": 2,
-							"file": "router.js",
+							"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/routes/slice.js",
 							"settings":
 							{
-								"buffer_size": 456,
+								"buffer_size": 1600,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										456,
-										456
+										1180,
+										1180
 									]
 								],
 								"settings":
 								{
-									"auto_name": "",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 250.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/Victor/repos/Aurora/servers/database/aurora.sql",
+							"settings":
+							{
+								"buffer_size": 1381,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										447,
+										459
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQL/SQL.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
@@ -571,19 +654,51 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "requestHandlers.js",
+							"buffer": 4,
+							"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/app.js",
 							"settings":
 							{
-								"buffer_size": 2325,
+								"buffer_size": 1629,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2010,
-										2010
+										330,
+										330
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/Users/Victor/repos/Aurora/servers/aurora.ws/routes/note.js",
+							"settings":
+							{
+								"buffer_size": 1530,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										806,
+										806
 									]
 								],
 								"settings":
@@ -593,16 +708,11 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 205.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						}
-					]
-				},
-				{
-					"sheets":
-					[
 					]
 				}
 			],
@@ -634,7 +744,7 @@
 				"cols":
 				[
 					0.0,
-					0.643587739885,
+					0.486132389242,
 					1.0
 				],
 				"rows":
@@ -644,7 +754,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "354 105 1212 953 0 0 1920 1058 ",
+			"position": "94 105 1826 953 0 0 1920 1058 ",
 			"replace":
 			{
 				"height": 0.0
@@ -670,16 +780,17 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 245.0,
+			"side_bar_width": 247.0,
 			"status_bar_visible": true,
-			"window_id": 94,
-			"workspace_name": "/Users/Victor/Development/hello.js/hello.js.sublime-project"
+			"window_id": 108,
+			"workspace_name": "/Users/Victor/Documents/SublimeProjects/Aurora.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/Users/Victor/Documents/SublimeProjects/Aurora.sublime-project",
 			"/Users/Victor/Development/hello.js/hello.js.sublime-project",
 			"/Users/Victor/Documents/SublimeProjects/ShowMeWS.sublime-project",
 			"/Users/Victor/Documents/SublimeProjects/ShowMe.here.sublime-project"
